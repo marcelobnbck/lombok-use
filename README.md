@@ -41,8 +41,7 @@ A model class showcasing Lombok's code reduction capabilities with added validat
 ## How to Run
 
 ** Using an IDE (Integrated Development Environment):**
-
-   a.  Clone or download the repository.
-   b.  Import the project into your favorite Java IDE (e.g., Eclipse, IntelliJ IDEA, VS Code with Java extensions).
-   c.  Locate the `Main.java` file.
-   d.  Right-click on `Main.java` and select "Run" or "Run As Java Application". The output will appear in the IDE's console.
+- Clone or download the repository.
+- Import the project into your favorite Java IDE (e.g., Eclipse, IntelliJ IDEA, VS Code with Java extensions).
+- Locate the `Main.java` file.
+- Right-click on `Main.java` and select "Run" or "Run As Java Application". The output will appear in the IDE's console.
